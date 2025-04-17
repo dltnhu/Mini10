@@ -7,7 +7,7 @@ const rateLimit = require('express-rate-limit');
 const path = require('path');
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3000; // Đảm bảo cổng là 3000 nếu không có PORT trong env
 
 // Khởi tạo cache với TTL 1 giờ
 const cache = new NodeCache({ stdTTL: 3600 });
@@ -161,5 +161,5 @@ app.use((err, req, res, next) => {
 
 // Khởi động server
 app.listen(port, () => {
-  logger.info(`Server chạy trên cổng ${port}, http://localhost:3000`);
+  logger.info(`Server chạy trên cổng ${port}, http://localhost:${port}`);
 });
