@@ -1,0 +1,32 @@
+{"level":"info","message":"Server chạy trên cổng 3000","timestamp":"2025-04-17T06:41:42.304Z"}
+{"level":"info","message":"Server chạy trên cổng 3000, http://localhost:3000","timestamp":"2025-04-17T06:43:21.599Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T06:43:24.944Z"}
+{"level":"info","message":"Phục vụ todos từ cache","timestamp":"2025-04-17T07:03:38.728Z"}
+{"level":"info","message":"Cập nhật todo với ID 1","timestamp":"2025-04-17T07:03:40.606Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:03:40.612Z"}
+{"level":"info","message":"Cập nhật todo với ID 1","timestamp":"2025-04-17T07:03:42.927Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:03:42.932Z"}
+{"level":"info","message":"Cập nhật todo với ID 1","timestamp":"2025-04-17T07:04:38.971Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:04:38.975Z"}
+{"level":"info","message":"Cập nhật todo với ID 2","timestamp":"2025-04-17T07:04:43.178Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:04:43.182Z"}
+{"level":"info","message":"Cập nhật todo với ID 1","timestamp":"2025-04-17T07:04:46.979Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:04:46.983Z"}
+{"level":"info","message":"Cập nhật todo với ID 2","timestamp":"2025-04-17T07:04:47.744Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:04:47.749Z"}
+{"level":"info","message":"Xóa todo với ID 1","timestamp":"2025-04-17T07:04:56.318Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:04:56.322Z"}
+{"level":"info","message":"Phục vụ todos từ cache","timestamp":"2025-04-17T07:09:46.713Z"}
+{"level":"info","message":"Phục vụ todos từ cache","timestamp":"2025-04-17T07:09:47.459Z"}
+{"level":"info","message":"Phục vụ todos từ cache","timestamp":"2025-04-17T07:09:47.730Z"}
+{"level":"info","message":"Phục vụ todos từ cache","timestamp":"2025-04-17T07:09:48.029Z"}
+{"level":"info","message":"Phục vụ todos từ cache","timestamp":"2025-04-17T07:09:49.760Z"}
+{"level":"info","message":"Server chạy trên cổng 3000, http://localhost:3000","timestamp":"2025-04-17T07:11:51.561Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:11:54.205Z"}
+{"level":"info","message":"Tạo todo mới với ID 3","timestamp":"2025-04-17T07:12:06.944Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:12:06.949Z"}
+{"level":"info","message":"Phục vụ todos từ cache","timestamp":"2025-04-17T07:12:10.538Z"}
+{"level":"info","message":"Cập nhật todo với ID 1","timestamp":"2025-04-17T07:12:56.214Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:12:56.218Z"}
+{"level":"info","message":"Cập nhật todo với ID 3","timestamp":"2025-04-17T07:13:01.138Z"}
+{"level":"info","message":"Phục vụ todos từ bộ nhớ","timestamp":"2025-04-17T07:13:01.142Z"}
